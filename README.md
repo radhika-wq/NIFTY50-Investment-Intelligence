@@ -1,0 +1,1 @@
+# NIFTY50-Investment-Intelligence
