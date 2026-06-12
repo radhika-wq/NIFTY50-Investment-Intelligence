@@ -117,5 +117,6 @@ The entire project is in one notebook `final.ipynb`:
 - COALINDIA and WIPRO have negative Sharpe ratios — destroyed wealth on risk-adjusted basis
 - Mean directional accuracy of 50% is honest and expected — markets are near-random
 ---
-
+## 📄 Technical Report
+👉 [View Full Report (PDF)](report.pdf)
 ## 🗂️ Repository Structure
